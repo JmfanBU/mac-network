@@ -69,3 +69,4 @@ target/
 
 # Dataset files
 *.json
+*.txt
